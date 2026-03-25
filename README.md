@@ -21,3 +21,6 @@ Enter a city name and click Search to see current weather information.
 ## Technical Stack
 
 HTML5, CSS3, JavaScript (async/await, Fetch API)
+
+Available via this link:
+[Link](https://web-weather-projekt.vercel.app/)
