@@ -6,11 +6,11 @@ A simple weather app that searches for current weather conditions in Czech citie
 
 - City search by name
 - Displays temperature (in Celsius), description, and weather icon
-- Error handling for invalid inputs
 
 ## How to Use
 
 Enter a city name and click Search to see current weather information.
+The API isn't working right now due to security concerns.
 
 ## Files
 
